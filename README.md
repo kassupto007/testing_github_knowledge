@@ -1,2 +1,2 @@
 # testing_github_knowledge
-Fix this name 'kzi' using pull request
+Fix this name 'kazi' using pull request
